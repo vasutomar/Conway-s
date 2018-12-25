@@ -9,5 +9,5 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 
 Just Download Processing for Java. 
 ```
-[Processing](https://processing.org/download/)
+* [Processing](https://processing.org/download/)
 ```
